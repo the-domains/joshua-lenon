@@ -1,9 +1,7 @@
-favicon: null
 name: Joshua Lenon
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2595745
+typography_spectrum: 0.1388596135657281
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: Rising in the West and setting in the East
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2764157
-  lightness: 0.9037566
-  brandStrength: 0.3489322091918439
   brandColors:
     - '#405666'
     - '#E7E7E8'
     - '#25282B'
     - '#007EE5'
     - '#4CA3EB'
+  brandStrength: 0.3489322091918439
+  lightness: 0.9037566
+  saturation: 0.2764157
   rhythmicContrast: 0.6425532
-typography_spectrum: 0.1388596135657281
-layout_spectrum: 0.2595745
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
