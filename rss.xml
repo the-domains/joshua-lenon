@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Joshua Lenon]]></title>
-        <description><![CDATA[Joshua Lenon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Rising in the West and setting in the East]]></title>
+        <description><![CDATA[Rising in the West and setting in the East]]></description>
+        <link>https://thegrid.ai/joshua-lenon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 23:17:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 23:26:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joshua-lenon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Consolidation is Hitting the Canadian Legal Market]]></title>
+            <description><![CDATA[<h1>Consolidation is Hitting the Canadian Legal Market</h1>]]></description>
+            <link>https://thegrid.ai/joshua-lenon/a6d41db2-55e8-4d85-bfba-959d286e637e/index.html</link>
+            <guid isPermaLink="false">a6d41db2-55e8-4d85-bfba-959d286e637e</guid>
+            <pubDate>Mon, 18 Jan 2016 23:25:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World</p>]]></description>
-            <link>undefinedfdbed2b3-2025-4b73-a37d-d2dbbaf23ac4/index.html</link>
+            <link>https://thegrid.ai/joshua-lenon/fdbed2b3-2025-4b73-a37d-d2dbbaf23ac4/index.html</link>
             <guid isPermaLink="false">fdbed2b3-2025-4b73-a37d-d2dbbaf23ac4</guid>
             <pubDate>Mon, 18 Jan 2016 23:17:26 GMT</pubDate>
         </item>
