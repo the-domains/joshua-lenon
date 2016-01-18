@@ -1,0 +1,28 @@
+name: Joshua Lenon
+favicon: null
+layout_spectrum: 0.18601957336068153
+typography_spectrum: 0.13885961356572807
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.34893220919184387
+  lightness: 0.9037565803155303
+  saturation: 0.2764157324563712
+  rhythmicContrast: 0.1460734934080392
+purpose: []
