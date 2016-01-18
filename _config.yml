@@ -1,4 +1,5 @@
-layout_spectrum: 0.2595745
+favicon: null
+name: Joshua Lenon
 opengraph:
   image: null
   type: null
@@ -17,24 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.2764157324563712
+  saturation: 0.2764157
+  lightness: 0.9037566
   brandStrength: 0.3489322091918439
-  lightness: 0.9037565803155303
   brandColors:
     - '#405666'
     - '#E7E7E8'
     - '#25282B'
     - '#007EE5'
     - '#4CA3EB'
-  rhythmicContrast: 0.1460734934080392
+  rhythmicContrast: 0.6425532
 typography_spectrum: 0.1388596135657281
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.2595745
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Joshua Lenon
+cta:
+  bucket: null
+  version: null
+  domain: null
